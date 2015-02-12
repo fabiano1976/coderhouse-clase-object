@@ -9,3 +9,5 @@ var auto1 = {marca:"porsche",
 var auto2 = {marca:"mazda", 
 			ano:2013, 
 			dni:31456789};
+
+var fabiano = { name:"Fabiano"};
